@@ -1,0 +1,24 @@
+  
+  section {
+    font-size: 16px;
+    line-height: 0;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    text-align: right;
+  }
+
+  ul {
+    font-size: 16px;
+    line-height: 1;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+  }
+
+  ol {
+    font-size: 16px;
+    line-height: 1;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+  }  
+
+  a {
+    text-decoration: none;
+    color: #f57c0a;
+  }    
